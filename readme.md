@@ -4,7 +4,7 @@
 
 ### my name is **Stewart Michaels** 🙇‍♂ & i am a **_web developer_**.
 
-i mostly practice JavaScript along with some Python and C++.
+i mostly practice _JavaScript_ along with some _Python_ and _C++_.
 
 in my spare time i play games, make music & sometimes hang-out with my friends to blow off some steam.
 
