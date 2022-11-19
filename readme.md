@@ -34,4 +34,4 @@ here are the links to my socials ~
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="10" height="10"> [LinkedIn](https://www.linkedin.com/in/stewart-kama-348324173)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Email_Logo_PNG.png" width="10" height="10"> [Mail](stewartmichaels@teamfinesse.in)
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Email_Logo_PNG.png" width="10" height="10"> <stewartmichaels@teamfinesse.in>
