@@ -1,4 +1,4 @@
-# **hello there 👋 **
+# **hello there 👋**
 
 <img src="https://i.redd.it/svi2zx472xr41.jpg" width="200" height="200">
 
