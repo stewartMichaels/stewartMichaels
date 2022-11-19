@@ -1,4 +1,4 @@
-# **hello there 👋**
+# **👋 hello there**
 
 <img src="https://i.redd.it/svi2zx472xr41.jpg" width="200" height="200">
 
@@ -10,7 +10,7 @@ in my spare time i play games, make music & sometimes hang-out with my friends t
 
 ***
 
-## **internship experience 🌵 **
+## **internship experience 🌵**
 
 [TechVariable](https://techvariable.com/)
 > 1 Aug, 2022 - 1 Nov, 2022
@@ -18,7 +18,7 @@ in my spare time i play games, make music & sometimes hang-out with my friends t
 
 ***
 
-## **personal projects 🎈 **
+## **personal projects 🎈**
 
 [GreenCity](https://greencityfoods.in)
 > _currenty helping them build their website and updating it on a monthly basis._
@@ -27,7 +27,7 @@ in my spare time i play games, make music & sometimes hang-out with my friends t
 > _recently built a website for my college fest._
 
 ***
-## **socials 📮 **
+## **socials 📮**
 here are the links to my socials ~
 
 [IG](https://www.instagram.com/stewartmichaels_/)
