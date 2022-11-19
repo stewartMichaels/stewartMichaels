@@ -34,4 +34,5 @@ here are the links to my socials ~
 
 [LinkedIn](https://www.linkedin.com/in/stewart-kama-348324173)
 
-[Mail](stewartmichaels@teamfinesse.in)
+### Mail 
+<stewartmichaels@teamfinesse.in>
