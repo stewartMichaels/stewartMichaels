@@ -1,7 +1,9 @@
 # **hello, i'm Stewart 👋**
 
+<div aligh="center">
 <img src="https://i.redd.it/svi2zx472xr41.jpg" width="200" height="200">
-
+</div>
+  
 ### my name is **Stewart Michaels** 🙇‍♂ & i am a **_web developer_**.
 
 i mostly practice _JavaScript_ along with some _Python_ and _C++_.
