@@ -32,8 +32,8 @@ in my spare time i play games, make music & sometimes hang-out with my friends t
 ## **📮 socials**
 here are the links to my socials ~
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="10" height="10"> [IG](https://www.instagram.com/stewartmichaels_/) 
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="20" height="20"> [IG](https://www.instagram.com/stewartmichaels_/) 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="10" height="10"> [LinkedIn](https://www.linkedin.com/in/stewart-kama-348324173)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20"> [LinkedIn](https://www.linkedin.com/in/stewart-kama-348324173)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Email_Logo_PNG.png" width="10" height="10"> <stewartmichaels@teamfinesse.in>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Email_Logo_PNG.png" width="20" height="20"> <stewartmichaels@teamfinesse.in>
