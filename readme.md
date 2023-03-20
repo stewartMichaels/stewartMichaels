@@ -6,9 +6,9 @@
   
 ### my name is **Stewart Michaels** 🙇‍♂ & i am a **_web developer_**.
 
-i mostly practice _JavaScript_ along with some _Python_ and _C++_.
+primarily focused on honing my skills in _JavaScript_, although I also dabble in _Python_ and _C++_. 
 
-in my spare time i play games, make music & sometimes hang-out with my friends to blow off some steam.
+and when I'm not coding, you might catch me battling monsters in virtual realms, making sweet melodies, or chilling with my homies to decompress.
 
 ***
 
@@ -23,7 +23,7 @@ in my spare time i play games, make music & sometimes hang-out with my friends t
 ## **🎈 personal projects**
 
 [GreenCity](https://greencityfoods.in)
-> _currenty helping them build their website and updating it on a monthly basis._
+> _currently helping them build their website and updating it on a monthly basis._
 
 [Techcracy 2022](https://techcracy22.in)
 > _recently built a website for my college fest._
