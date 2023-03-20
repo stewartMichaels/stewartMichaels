@@ -32,7 +32,7 @@ in my spare time i play games, make music & sometimes hang-out with my friends t
 ## **📮 socials**
 here are the links to my socials ~
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="20" height="20"> [IG](https://www.instagram.com/stewartmichaels_/) 
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="20" height="20"> [Instagram](https://www.instagram.com/stewartmichaels_/) 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20"> [LinkedIn](https://www.linkedin.com/in/stewart-kama-348324173)
 
